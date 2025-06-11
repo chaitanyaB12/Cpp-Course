@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.js": "bat",
+        "iostream": "cpp",
+        "vector": "cpp"
+    }
+}
